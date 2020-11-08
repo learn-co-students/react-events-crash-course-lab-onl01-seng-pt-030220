@@ -2,7 +2,7 @@
 
 
 ## Objectives
-
+somewords....
 1. Practice affixing and handling Synthetic Events in React
 
 
